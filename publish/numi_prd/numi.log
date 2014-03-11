@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  6 MAR 2014 22:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  11 MAR 2014 12:00
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -74,16 +74,17 @@ Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
 \widetext@top=\box39
 \widetext@bot=\box40
 Class revtex4-1 Info: Selecting society aps on input line 7542.
-(./aps4-1.rtx
-File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
-mentation)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2009/10/08:11:23 4.1g (http://publish.aps.org/revtex4/ for documen
+tation)
 Class revtex4-1 Info: RevTeX society APS selected on input line 31.
 )
 Class revtex4-1 Info: Selecting journal prd on input line 7544.
 Class revtex4-1 Info: APS journal PRD selected on input line 7545.
- (./aps10pt4-1.rtx
-File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
-documentation)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2009/10/08:11:23 4.1g (http://publish.aps.org/revtex4/ for doc
+umentation)
 Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
 )
 (/usr/local/texlive/2009/texmf-dist/tex/latex/textcase/textcase.sty
@@ -553,9 +554,9 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  6095 strings out of 493848
- 76686 string characters out of 3149207
- 224728 words of memory out of 3000000
- 9265 multiletter control sequences out of 15000+200000
+ 76927 string characters out of 3149207
+ 224593 words of memory out of 3000000
+ 9264 multiletter control sequences out of 15000+200000
  17107 words of font info for 63 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  34i,9n,35p,1381b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -584,7 +585,7 @@ s/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2009/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2009/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2009/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmti9.pfb>
-Output written on numi.pdf (11 pages, 3274347 bytes).
+Output written on numi.pdf (11 pages, 3274292 bytes).
 PDF statistics:
  551 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
